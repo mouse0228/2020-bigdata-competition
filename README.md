@@ -13,7 +13,7 @@
 - 資料標準化
 
 ## 演算法
-透過隨機森林重要度分析找出重要參數，以交叉驗證方式訓練測試模型，模型使用Extra Tree演算法找出最佳參數回歸結果
+透過隨機森林重要度分析找出重要參數，以交叉驗證方式訓練測試模型，模型使用Random Forest 和 Extra Tree演算法找出最佳參數，分別建立模型回歸結果
 
 ![image](https://user-images.githubusercontent.com/67943586/186482224-70d0bbef-72e3-4676-ab94-5030654bbd60.png)
 
